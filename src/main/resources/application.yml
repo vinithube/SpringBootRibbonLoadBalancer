@@ -1,0 +1,6 @@
+employee:
+ ribbon:
+  eureka:
+    enabled: false
+  listOfServers: localhost:8182
+  ServerListRefreshInterval: 15000
